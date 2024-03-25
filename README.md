@@ -1,13 +1,6 @@
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/nodejs-6DA55F?logo=node.js&logoColor=white"/>&nbsp
