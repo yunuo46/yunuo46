@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/Yaml-%23ffffff?logo=yaml&logoColor=151515"/>&nbsp
   <img src="https://img.shields.io/badge/Github%20Actions-%232671E5?logo=githubactions&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Naver Cloud Platform-%23009639&logoColor=green"/>
 </p>
 
 
