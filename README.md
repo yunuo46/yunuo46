@@ -23,7 +23,7 @@
 
 <!-- Solved.ac -->
 <div aligh="center">
-  <h4 align="center">🏆 Baekjoon Solved.ac 🏆</h4>
+  <h4 align="center">🏆 Solved.ac 🏆</h4>
   <p align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunuo46"/>
   </p>
