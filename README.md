@@ -1,12 +1,8 @@
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center"> Techs that I've used at least once </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffffff"/>&nbsp 
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>&nbsp 
