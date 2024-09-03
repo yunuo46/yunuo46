@@ -14,11 +14,9 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Yaml-%23ffffff?logo=yaml&logoColor=151515"/>&nbsp
   <img src="https://img.shields.io/badge/Github%20Actions-%232671E5?logo=githubactions&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Naver Cloud Platform-F2F4F9?logo=Naver&logoColor=#2DB400"/>
 </p>
 
 
