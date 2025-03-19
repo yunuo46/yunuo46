@@ -21,12 +21,19 @@
 
 
 <!-- Solved.ac -->
-<div aligh="center">
-  <h4 align="center">🏆 Solved.ac 🏆</h4>
-  <p align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunuo46"/>
-  </p>
+<div align="center">
+  <h4>🏆 Solved.ac 🏆</h4>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunuo46"/>
 </div>
+
+<!-- Certification -->
+<div align="center">
+  <h4>🎓 Certification 🎓</h4>
+    <a href="https://www.credly.com/badges/e299452b-d4a3-48a9-abb9-6efd95d41939/public_url">
+      <img src="https://github.com/user-attachments/assets/7a267b83-545e-42c7-ab53-e3d0d6ed4cc9" />
+  </a>
+</div>
+
 
 <!--
 **yunuo46/yunuo46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
