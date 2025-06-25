@@ -28,35 +28,34 @@
 * 정보처리기사 (한국산업인력공단) - 2025.06
 
 <br />
-
-<!-- Tech Stack -->
-<h3>🛠 Tech Stack 🛠</h3>
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/nodejs-6DA55F?logo=node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/express-FFFFFF?logo=express&logoColor=000000"/>&nbsp
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E?logo=nestjs&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot"/>
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Github%20Actions-%232671E5?logo=githubactions&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white"/>&nbsp
-</p>
-
-</br>
 <h3> 🐥 Stats </h3>
 
 ---
+
+<!-- Tech Stack -->
+<div align="center">
+  <h4">🛠 Tech Stack 🛠</h3>
+  <br />
+  <p>
+    <br>
+    <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>&nbsp
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/nodejs-6DA55F?logo=node.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/express-FFFFFF?logo=express&logoColor=000000"/>&nbsp
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E?logo=nestjs&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot"/>
+    <br>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Github%20Actions-%232671E5?logo=githubactions&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white"/>&nbsp
+  </p>
+</div>
 
 <!-- Solved.ac -->
 <div align="center">
