@@ -19,6 +19,16 @@
 
 </br>
 
+<h3>🎓 Certification 🎓</h3>
+
+---
+
+* AWS Certified Solutions Architect - Associate (Amazon Web Services) - 2025.03
+* SQLD (한국데이터산업진흥원) - 2025.04
+* 정보처리기사 (한국산업인력공단) - 2025.06
+
+<br />
+
 <!-- Tech Stack -->
 <h3>🛠 Tech Stack 🛠</h3>
 
