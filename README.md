@@ -65,7 +65,7 @@
 
 <!-- Certification -->
 <div align="center">
-  <h4>🎓 Certification 🎓</h4>
+  <h4>🎓 Badges 🎓</h4>
     <a href="https://www.credly.com/badges/52e7a80e-2f3c-4a55-bae1-a3dc78e1f531">
       <img src="https://github.com/user-attachments/assets/7a267b83-545e-42c7-ab53-e3d0d6ed4cc9" />
   </a>
