@@ -1,6 +1,30 @@
+<h3> 📖 Experiences </h3>
+
+---
+
+* Konkuk University CSE 21 - 2021.03 ~ 2025.08
+* [네이버 커넥트재단 부스트캠프](https://boostcamp.connect.or.kr/) 웹・모바일 8기 챌린지 과정 수료 - 2023.07 ~ 2023.08
+* [네이버 커넥트재단 부스트캠프](https://boostcamp.connect.or.kr/) 웹・모바일 8기 멤버십 과정 수료 - 2023.08 ~ 2023.12
+* [GDG On Campus Konkuk University](https://gdg.community.dev/gdg-on-campus-konkuk-university-seoul-south-korea/) Member - 2024.08 ~ 2025.06
+* [Samsung SW·AI academy For Youth](https://www.ssafy.com/) 14기 SW전공 서울 Coding Track - 2025.07~
+
+<br />
+
+<h3> 📚 Studies </h3>
+
+---
+
+* [Algorithm Study GTPGT](https://randps.kr) - 2024.04 ~ 2024.11
+* [Computer Science Study(OS, Network, DB)](https://github.com/CS-Computer-Science-Study) - 2024.09 ~ 2024.12
+
+</br>
+
 <!-- Tech Stack -->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
+<h3>🛠 Tech Stack 🛠</h3>
+
+---
+
+<p>
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/nodejs-6DA55F?logo=node.js&logoColor=white"/>&nbsp
@@ -19,6 +43,10 @@
   <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white"/>&nbsp
 </p>
 
+</br>
+<h3> 🐥 Stats </h3>
+
+---
 
 <!-- Solved.ac -->
 <div align="center">
@@ -29,23 +57,7 @@
 <!-- Certification -->
 <div align="center">
   <h4>🎓 Certification 🎓</h4>
-    <a href="https://www.credly.com/badges/e299452b-d4a3-48a9-abb9-6efd95d41939/public_url">
+    <a href="https://www.credly.com/badges/52e7a80e-2f3c-4a55-bae1-a3dc78e1f531">
       <img src="https://github.com/user-attachments/assets/7a267b83-545e-42c7-ab53-e3d0d6ed4cc9" />
   </a>
 </div>
-
-
-<!--
-**yunuo46/yunuo46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
