@@ -14,7 +14,7 @@
 
 ---
 
-* [Algorithm Study GTPGT](https://randps.kr) - 2024.04 ~ 2024.11
+* [Algorithm Study GPGT](https://randps.kr) - 2024.04 ~ 2024.11
 * [Computer Science Study(OS, Network, DB)](https://github.com/CS-Computer-Science-Study) - 2024.09 ~ 2024.12
 
 </br>
