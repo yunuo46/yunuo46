@@ -3,8 +3,8 @@
 ---
 
 * Konkuk University CSE 21 - 2021.03 ~ 2025.08
-* [네이버 커넥트재단 부스트캠프](https://boostcamp.connect.or.kr/) 웹・모바일 8기 챌린지 과정 수료 - 2023.07 ~ 2023.08
-* [네이버 커넥트재단 부스트캠프](https://boostcamp.connect.or.kr/) 웹・모바일 8기 멤버십 과정 수료 - 2023.08 ~ 2023.12
+* [네이버 부스트캠프](https://boostcamp.connect.or.kr/) 웹・모바일 8기 챌린지 과정 수료 - 2023.07 ~ 2023.08
+* [네이버 부스트캠프](https://boostcamp.connect.or.kr/) 웹・모바일 8기 멤버십 과정 수료 - 2023.08 ~ 2023.12
 * [GDG On Campus Konkuk University](https://gdg.community.dev/gdg-on-campus-konkuk-university-seoul-south-korea/) Member - 2024.08 ~ 2025.06
 * [Samsung SW·AI academy For Youth](https://www.ssafy.com/) 14기 SW전공 서울 Coding Track - 2025.07~
 
